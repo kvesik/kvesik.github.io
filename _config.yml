@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://scholar.google.com/kvesik" #TODO
   email            :
-  researchgate     :  example: "https://www.researchgate.net/profile/Kaili_Vesik"
+  researchgate     :  "https://www.researchgate.net/profile/Kaili_Vesik"
   uri              :
   bitbucket        :
   codepen          :
