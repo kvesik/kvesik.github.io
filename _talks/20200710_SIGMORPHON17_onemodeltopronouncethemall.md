@@ -3,7 +3,7 @@ title: "One Model to Pronounce Them All: Multilingual Grapheme-to-Phoneme Conver
 collection: talks
 type: "Poster"
 permalink: /talks/20200710_SIGMORPHON17_onemodeltopronouncethemall
-venue: ""
+venue: "17th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology"
 date: 2020-07-10
 location: "Seattle, Washington, USA / online"
 ---
