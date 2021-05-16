@@ -3,7 +3,7 @@ title: "Vowel quantity in sung Estonian"
 collection: talks
 type: "Poster"
 permalink: /talks/20201016_LSGSPFRD2_vowelquantityinsungestonian
-venue: "University of British Columbia"
+venue: "Second UBC Language Sciences Graduate Student and Postdoctoral Fellow Research Day"
 date: 20201016
 location: "Vancouver, British Columbia, Canada / online"
 ---
