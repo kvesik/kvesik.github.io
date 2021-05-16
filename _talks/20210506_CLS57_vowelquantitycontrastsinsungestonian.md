@@ -1,10 +1,10 @@
 ---
 title: "Vowel quantity contrasts in sung Estonian"
 collection: talks
-type: "Talks"
+type: "Talk"
 permalink: /talks/20210506_CLS57_vowelquantitycontrastsinsungestonian
 venue: "University of Chicago"
-date: 2021-05-15
+date: 2021-05-06
 location: "Chicago, Illinois, USA / online"
 ---
 
