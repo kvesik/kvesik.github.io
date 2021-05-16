@@ -8,4 +8,6 @@ date: 2021-05-15
 location: "Vancouver, British Columbia, Canada / online"
 ---
 
-[Slides](files/Vesik_2021_NWLC37_slides.pdf)
+Vesik, K. 37th Annual Northwest Linguistics Conference. May 15, 2021.
+
+ - [Slides](files/Vesik_2021_NWLC37_slides.pdf)
