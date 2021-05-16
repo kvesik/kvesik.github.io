@@ -8,6 +8,6 @@ date: 20201016
 location: "Vancouver, British Columbia, Canada / online"
 ---
 
-Vesik, K. . Second UBC Language Sciences Graduate Student and Postdoctoral Fellow Research Day. Ocotber 16, 2020.
+Vesik, K. Second UBC Language Sciences Graduate Student and Postdoctoral Fellow Research Day. Ocotber 16, 2020.
 
  - [Poster](files/Vesik_2020_LSGSPFRD2_poster.pdf)
