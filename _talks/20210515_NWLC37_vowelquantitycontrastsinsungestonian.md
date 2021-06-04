@@ -10,4 +10,4 @@ location: "Vancouver, British Columbia, Canada / online"
 
 Vesik, K. 37th Annual Northwest Linguistics Conference. May 15, 2021.
 
- - [Slides](files/Vesik_2021_NWLC37_slides.pdf)
+ - [Slides](../files/Vesik_2021_NWLC37_slides.pdf)

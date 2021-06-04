@@ -10,4 +10,4 @@ location: "Chicago, Illinois, USA / online"
 
 Vesik, K. 57th Annual Meeting of the Chicago Linguistic Society. May 6-8, 2021.
 
- - [Slides from flash talk (poster session)](files/Vesik_2021_CLS57_flashtalkslides.pdf)
+ - [Slides from flash talk (poster session)](../files/Vesik_2021_CLS57_flashtalkslides.pdf)
