@@ -1,5 +1,5 @@
 ---
-title: "CONT 931"
+title: "Queens CONT 931"
 collection: teaching
 type: "Post-baccalaureate course"
 permalink: /teaching/2019fall-Queens931
