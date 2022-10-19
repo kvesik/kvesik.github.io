@@ -1,4 +1,3 @@
-<!--
 ---
 title: "Necessary biases for algorithmic learning of Kihnu Estonian vowel harmony"
 collection: publications
@@ -15,4 +14,3 @@ citation: 'Vesik, K. (in prep). Necessary biases for algorithmic learning of Kih
 
 Recommended citation: 
 Vesik, K. (in prep). Necessary biases for algorithmic learning of Kihnu Estonian vowel harmony. Manuscript in preparation.
--->

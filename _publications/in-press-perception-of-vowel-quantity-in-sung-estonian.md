@@ -1,4 +1,3 @@
-<!--
 ---
 title: "Perception of vowel quantity in sung Estonian"
 collection: publications
@@ -15,4 +14,4 @@ This paper investigates representation and perception of contrastive vowel lengt
 
 Recommended citation: 
 Vesik, K. (in press). Perception of vowel quantity in sung Estonian. In <i>Proceedings of the Fifty-seventh Annual Meeting of the Chicago Linguistic Society</i>.
--->
+
