@@ -3,8 +3,8 @@ title: "Improved student learning through active retrieval practice and random-s
 collection: publications
 permalink: /publication/submitted-2022-improved-student-learning
 #excerpt: 'todo abstract here'
-date: 
-venue: '(not yet published)'
+# date: not yet published
+#venue: 'CJL'
 #paperurl: 'https://todo.url.here'
 citation: 'Vesik, K., & Hall, K.C. (2022). Improved student learning through active retrieval practice and random-sampled exams. Manuscript submitted for publication.'
 ---

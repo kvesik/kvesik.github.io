@@ -4,8 +4,8 @@ title: "Necessary biases for algorithmic learning of Kihnu Estonian vowel harmon
 collection: publications
 permalink: /publication/in-prep-2022-necessary-biases-for-algorithmic-learning-of-ke-vh
 #excerpt: 'todo abstract here'
-date: 
-venue: '(not yet published)'
+# date: 
+# venue: '(not yet published)'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Vesik, K. (in prep). Necessary biases for algorithmic learning of Kihnu Estonian vowel harmony. Manuscript in preparation.'
 ---

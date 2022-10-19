@@ -3,8 +3,8 @@ title: "Vowel harmony in the Kihnu variety of Estonian: A corpus study"
 collection: publications
 permalink: /publication/submitted-2022-vowel-harmony-in-the-kihnu-variety-of-estonian
 #excerpt: 'todo abstract here'
-date: 
-venue: '(not yet published)'
+# date: 
+# venue: '(not yet published)'
 #paperurl: 'https://todo.url.here'
 citation: 'Vesik, K. (2022). Vowel harmony in the Kihnu variety of Estonian: A corpus study. Manuscript submitted for publication.'
 ---
