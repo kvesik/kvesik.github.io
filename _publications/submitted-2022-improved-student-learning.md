@@ -10,6 +10,7 @@ citation: 'Vesik, K., & Hall, K.C. (2022). Improved student learning through act
 ---
 Please contact me directly for more information about this manuscript.
 
-#[Download paper here](https://www.aclweb.org/anthology/2020.sigmorphon-1.16.pdf)
-Recommended citation: 
-Vesik, K., & Hall, K.C. (2022). Improved student learning through active retrieval practice and random-sampled exams. Manuscript submitted for publication.
+<!--[Download paper here](https://www.aclweb.org/anthology/2020.sigmorphon-1.16.pdf)-->
+
+<!--Recommended citation: 
+Vesik, K., & Hall, K.C. (2022). Improved student learning through active retrieval practice and random-sampled exams. Manuscript submitted for publication.-->

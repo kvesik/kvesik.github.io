@@ -1,4 +1,3 @@
-<!--
 ---
 title: "Laying a foundation for bidialectalism: necessary biases for algorithmic learning of two dialects of Estonian"
 collection: publications
@@ -13,6 +12,6 @@ This paper investigates how the vowel patterns of two closely-related dialects o
 
 This paper is my second Qualifying Paper, one of the requirements for candidacy in the UBC Department of Linguistics. [Download manuscript here](../files/Vesik_2022_QP2_manuscript.pdf).
 
-Recommended citation: 
+<!--Recommended citation: 
 Vesik, K. (2022). Laying a foundation for bidialectalism: necessary biases for algorithmic learning of two dialects of Estonian. Unpublished manuscript, University of British Columbia.
 -->
