@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/20221023_AMP2022_necessarybiasesforalgorithmiclearningofkevh
 venue: "2022 Annual Meeting on Phonology"
-date: 2022-10-13
+date: 2022-10-23
 location: "Los Angeles, California, USA"
 ---
 

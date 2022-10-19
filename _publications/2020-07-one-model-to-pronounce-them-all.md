@@ -12,5 +12,5 @@ The task of grapheme-to-phoneme (G2P) conversion is important for both speech re
 
 [Download paper here](https://www.aclweb.org/anthology/2020.sigmorphon-1.16.pdf)
 
-Recommended citation: 
-Vesik, K., Abdul-Mageed, M., & Silfverberg, M. (2020). One Model to Pronounce Them All: Multilingual Grapheme-to-Phoneme Conversion With a Transformer Ensemble. In <i>Proceedings of the 17th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology</i>, Seattle.
+<!--Recommended citation: 
+Vesik, K., Abdul-Mageed, M., & Silfverberg, M. (2020). One Model to Pronounce Them All: Multilingual Grapheme-to-Phoneme Conversion With a Transformer Ensemble. In <i>Proceedings of the 17th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology</i>, Seattle.-->
