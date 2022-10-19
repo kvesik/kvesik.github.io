@@ -10,6 +10,6 @@ location: "Marseille, France"
 
 Hall, K.C., Aonuki, Y., Vesik, K., Poy, A., & Tolmie, N. Sign Language Phonetic Annotator-Analyzer: Open-Source Software for Form-Based Analysis of Sign Languages. 10th Workshop on the Representation and Processing of Sign Languages: Multilingual Sign Language Resources. June 25, 2022.
 
- - [Poster](../files/Hall_etal_2022_LREC_poster.pdf)
+ - [Poster](../files/Hall_etal_2022_LREC_poster.pdf) and [Supplementary Materials](../files/Hall_etal_2022_LREC_supplement.pdf)
  - [github repo](https://github.com/PhonologicalCorpusTools/SLPAA)
- - [Proceedings](publication/2022-06-slpaa-open-source-software)
+ - [Proceedings](../publication/2022-06-slpaa-open-source-software)
