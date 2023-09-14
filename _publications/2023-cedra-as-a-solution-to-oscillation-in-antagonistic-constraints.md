@@ -3,7 +3,7 @@ title: "The Calibrated Error-Driven Ranking Algorithm as a Solution to Oscillati
 collection: publications
 permalink: /publication/2023-cedra-as-a-solution-to-oscillation-in-antagonistic-constraints
 excerpt: 'This paper investigates the learning of Kihnu Estonian, a minority dialect of Estonian (Balto-Finnic). I propose a set of constraints to account for Kihnu Estonian vowel harmony patterns, and show that they can be used to produce a restrictive grammar for Kihnu Estonian vowel harmony. With this constraint set, I model the acquisition of Kihnu Estonian vowel harmony via the application of the Gradual Learning Algorithm (Boersma and Hayes, 2001). Antagonistic constraints in the set I adopt pose obstacles to successful learning of the vowel patterns attested in the learning data. These obstacles can be circumvented via use of the update rule from the Calibrated Error-Driven Ranking Algorithm (Magri, 2012).This update rule has been argued to be detrimental to learning variation in stochastic OT. However, though it was originally proposed to address the Credit Problem (Dresher, 1999), I show that it is in fact an elegant solution to the learning problems caused by oscillating constraints when modeling acquisition of Kihnu Estonian vowel harmony.'
-date: 2023
+date: 2023-05-13
 #presentationdate: 2022-10-23
 venue: 'Supplemental Proceedings of the 2022 Annual Meeting on Phonology'
 paperurl: 'https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/5429'
