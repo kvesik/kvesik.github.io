@@ -12,7 +12,7 @@ I'm Kaili Vesik, a doctoral researcher in the Linguistics department at the Univ
 
 My extracurricular interests include sewing, reading, singing, dancing, running, hiking, and skiing. <!-- And cats, of course, but what else could the internet possibly be for? -->
 
-If you've arrived here via my [AMP 2022 poster](../talks/20221023_AMP2022_necessarybiasesforalgorithmiclearningofkevh), you might be interested in taking a look at my [2022 manuscript](../publication/2022-02-24-laying-a-foundation-for-bidialectalism) on learning Estonian vowel patterns using the GLA.
+<!-- If you've arrived here via my [AMP 2022 poster](../talks/20221023_AMP2022_necessarybiasesforalgorithmiclearningofkevh), you might be interested in taking a look at my [2022 manuscript](../publication/2022-02-24-laying-a-foundation-for-bidialectalism) on learning Estonian vowel patterns using the GLA. -->
 
 Curious about how to pronounce my name? You've got two options! I introduce myself to Estonian speakers as [kɑili vesik] and to English speakers as [kʰaɪli vɛsɪk].
 
