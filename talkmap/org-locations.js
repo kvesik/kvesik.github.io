@@ -10,6 +10,11 @@ var addressPoints = [
     -123.113952
   ],
   [
+    "Richmond, British Columbia, Canada ",
+    49.1666,
+    -123.1336
+  ],
+  [
     "Chicago, Illinois, USA ",
     41.8755616,
     -87.6244212
