@@ -28,5 +28,15 @@ var addressPoints = [
     "Los Angeles, California, USA",
     34.0536909,
     -118.242766
+  ],
+  [
+    "Turin, Italy",
+    45.0703,
+    7.6869
+  ],
+  [
+    "Philadelphia, Pennsylvania, USA",
+    39.9526,
+    -75.1652
   ]
 ];
