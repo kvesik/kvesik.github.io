@@ -14,9 +14,9 @@ Education
 * BSc in Mathematics and Computer Science, University of British Columbia, 2006
 * BEd in Secondary Mathematics and Computer Science Education, University of British Columbia, 2008
 * MMT (Master of Mathematics for Teachers), University of Waterloo, 2017
-* PhD in Linguistics, University of British Columbia (in progress)
+* PhD in Linguistics, University of British Columbia (expected 2025)
 
-<!-- Work experience
+<!-- Work experience TODO
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -28,7 +28,7 @@ Education
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-Skills
+Skills TODO
 ======
 * Skill 1
 * Skill 2
@@ -55,6 +55,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!-- Service and leadership
+<!-- Service and leadership TODO
 ======
 * Currently signed in to 43 different slack teams -->
