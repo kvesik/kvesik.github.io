@@ -13,5 +13,5 @@ Constraints with overlapping violation profiles cause challenges (cf. Credit Pro
 
 [Download paper here](https://openpublishing.library.umass.edu/amphonology/article/3032/galley/2720/download/)
 
-Recommended citation: 
-Vesik, K. (2025). General-over-specific markedness bias as a balancing force in GLA-style learning. In G. Avelino, M. Balihaxi, C. Colvin, V. Czarnecki, H. Joo, C. Wang, U. Zorbarlar, A. Jardine, & A. McCollum (Eds.), <i>Supplemental Proceedings of the 2023 and 2024 Annual Meetings on Phonology</i>. Amherst, Massachusetts: University of Massachusetts Amherst Libraries. https://doi.org/10.7275/amphonology.3032
+<!-- Recommended citation: 
+Vesik, K. (2025). General-over-specific markedness bias as a balancing force in GLA-style learning. In G. Avelino, M. Balihaxi, C. Colvin, V. Czarnecki, H. Joo, C. Wang, U. Zorbarlar, A. Jardine, & A. McCollum (Eds.), <i>Supplemental Proceedings of the 2023 and 2024 Annual Meetings on Phonology</i>. Amherst, Massachusetts: University of Massachusetts Amherst Libraries. https://doi.org/10.7275/amphonology.3032 -->
