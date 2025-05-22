@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Kaili Vesik, a computational phonologist doing my PhD in the Linguistics department at the University of British Columbia. I have a background in Mathematics, Computer Science, and Education, and my current focus is on typology and learnability of vowel patterns in Balto-Finnic languages. I expect to defend my dissertation, tentatively titled "Gradual Error-Driven Learning and Typology of Balto-Finnic Vowel Interactions," in late spring or early summer 2025.
+I'm Kaili Vesik, a computational phonologist doing my PhD in the Linguistics department at the University of British Columbia. I have a background in Mathematics, Computer Science, and Education, and my current focus is on typology and learnability of vowel patterns in Balto-Finnic languages. I expect to defend my dissertation, titled "Gradual Error-Driven Learning and Typology of Finnic Vowel Interactions," in early summer 2025.
 
 My extracurricular interests include sewing, reading, singing, dancing, running, hiking, and skiing. <!-- And cats, of course, but what else could the internet possibly be for? -->
 
