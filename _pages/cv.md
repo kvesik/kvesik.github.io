@@ -14,7 +14,7 @@ Education
 * BSc in Mathematics and Computer Science, University of British Columbia, 2006
 * BEd in Secondary Mathematics and Computer Science Education, University of British Columbia, 2008
 * MMT (Master of Mathematics for Teachers), University of Waterloo, 2017
-* PhD in Linguistics, University of British Columbia (expected 2025)
+* PhD in Linguistics, University of British Columbia, 2025
 
 <!-- Work experience TODO
 ======

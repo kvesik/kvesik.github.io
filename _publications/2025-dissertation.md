@@ -7,7 +7,7 @@ I explore challenges that arise when modeling acquisition of Finnic vowel patter
 I present three novel implementations of learning biases to alleviate these challenges: (1) the adaptation of Hayes’s (2004) Favour Specificity principle to online learning; (2) variations on Magri’s (2012) modified promotion rate to more conservatively promote winner-preferring constraints (cf. The Credit Problem, Dresher, 1999); and (3) an adaptation of Albright and Hayes’s (2006) bias favouring more general markedness constraints, calculated based on observed inputs. Models with 1080 different combinations of settings were tested on their acquisition of three sample languages (North Estonian, Finnish, and North Seto). These biases produced several very successful learners, acquiring grammars that account for input patterns with 99.99% success. The broad experimental landscape allows for considerable confidence in the success of the biases, while also providing a foundation for future research into interactions between biases."
 date: 2025-08-28
 #presentationdate: 2025-08-28
-#venue: 'University of British Columbia'
+venue: 'University of British Columbia'
 paperurl: 'http://hdl.handle.net/2429/92155'
 citation: 'Vesik, K. (2025). Gradual error-driven learning and typology of Finnic vowel interactions. Ph.D. thesis, University of British Columbia. https://dx.doi.org/10.14288/1.0449949'
 ---
